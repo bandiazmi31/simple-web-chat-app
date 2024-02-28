@@ -2,7 +2,7 @@ import { MultiChatSocket, MultiChatWindow, useMultiChatLogic } from 'react-chat-
 
 const ChatsPage = (props) => {
     const chatProps = useMultiChatLogic(
-        '09f607d3-a26f-4fb8-b212-22f0c2adbf5b',
+        'YOUR-PROJECT-ID',
         props.user.username,
         props.user.secret);
     return (
