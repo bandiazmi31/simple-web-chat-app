@@ -27,7 +27,7 @@ $ npm install
 ```
 
 > **Note**
-> You'Il need to sign up to chatengine.io in order to create your own API key!
+> You'Il need to sign up to chatengine.io in order to create your own API key and your Project ID!
 
 ## Credits
 
